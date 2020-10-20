@@ -1,0 +1,16 @@
+{
+  "name": "gdt",
+  "version": "0.0.1",
+  "description": "GitHub dark theme",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/C-Lodder/github-dark-theme"
+  },
+  "license": "MIT",
+  "scripts": {
+    "build": "node build.js"
+  },
+  "devDependencies": {
+    "clean-css": "^4.2.3"
+  }
+}
