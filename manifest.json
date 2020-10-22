@@ -14,13 +14,10 @@
   },
   "content_scripts": [
     {
-      "matches": ["https://github.com/*"],
+      "matches": ["https://*.github.com/*"],
       "css" : ["css/github-dark.min.css"],
       "run_at" : "document_start"
     }
-  ],
-  "permissions": [
-    "<all_urls>"
   ],
   "icons": {
     "48": "icons/icon-48.png",
