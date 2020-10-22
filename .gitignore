@@ -8,3 +8,4 @@ node_modules/
 
 # Dist
 css/*.min.css
+web-ext-artifacts/
