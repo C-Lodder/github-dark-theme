@@ -212,13 +212,13 @@
   --color-shadow-extra-large: none !important;
   --color-shadow-highlight: none !important;
   --color-shadow-inset: none !important;
-  --color-state-hover-primary-bg: #66adff !important;
+  --color-state-hover-primary-bg: #2b2b2b !important;
   --color-state-hover-primary-border: #66adff !important;
   --color-state-hover-primary-text: #fff !important;
   --color-state-hover-primary-icon: #fff !important;
   --color-state-hover-secondary-bg: #202020 !important;
   --color-state-hover-secondary-border: #202020 !important;
-  --color-state-selected-primary-bg: #66adff !important;
+  --color-state-selected-primary-bg: #2b2b2b !important;
   --color-state-selected-primary-border: #66adff !important;
   --color-state-selected-primary-text: #fff !important;
   --color-state-selected-primary-icon: #fff !important;
@@ -307,8 +307,8 @@
   --color-counter-primary-text: #fff !important;
   --color-counter-primary-bg: #6a737d !important;
   --color-counter-secondary-text: #6a737d !important;
-  --color-dropdown-bg: #fff !important;
-  --color-dropdown-border: #e1e4e8 !important;
+  --color-dropdown-bg: #202020 !important;
+  --color-dropdown-border: #343434 !important;
   --color-dropdown-shadow: none !important;
   --color-label-border: #e1e4e8 !important;
   --color-label-primary-text: #24292e !important;
@@ -327,7 +327,7 @@
   --color-topic-tag-border: #1b1b1b !important;
   --color-topic-tag-text: #66adff !important;
   --color-input-bg: #202020 !important;
-  --color-input-contrast-bg: #fafbfc !important;
+  --color-input-contrast-bg: #202020 !important;
   --color-input-border: #343434 !important;
   --color-input-shadow: none !important;
   --color-input-disabled-bg: #202020 !important;
@@ -348,13 +348,13 @@
   --color-avatar-stack-fade-more: #e1e4e8 !important;
   --color-avatar-child-shadow: none !important;
   --color-toast-ic-bg-loading: #707173 !important;
-  --color-timeline-text: #444d56 !important;
-  --color-timeline-badge-bg: #e1e4e8 !important;
+  --color-timeline-text: #bbb !important;
+  --color-timeline-badge-bg: #2d2d2d !important;
   --color-timeline-target-badge-border: #2188ff !important;
   --color-timeline-target-badge-shadow: none !important;
-  --color-select-menu-bg: #fff !important;
-  --color-select-menu-border: #e1e4e8 !important;
-  --color-select-menu-border-secondary: #eaecef !important;
+  --color-select-menu-bg: #202020 !important;
+  --color-select-menu-border: #343434 !important;
+  --color-select-menu-border-secondary: #343434 !important;
   --color-select-menu-shadow: none !important;
   --color-select-menu-backdrop-bg: rgba(27,31,35,.5) !important;
   --color-select-menu-backdrop-border: transparent !important;
@@ -368,10 +368,10 @@
   --color-popover-border: rgba(27,31,35,.15) !important;
   --color-branch-name-text: rgba(27,31,35,.6) !important;
   --color-branch-name-icon: #a8bbd0 !important;
-  --color-branch-name-bg: #eaf5ff !important;
+  --color-branch-name-bg: #1a1a1a !important;
   --color-branch-name-link-text: #0366d6 !important;
   --color-branch-name-link-icon: #a8bbd0 !important;
-  --color-branch-name-link-bg: #eaf5ff !important;
+  --color-branch-name-link-bg: #1a1a1a !important;
   --color-markdown-code-bg: rgba(27,31,35,.05) !important;
   --color-markdown-frame-border: #343434 !important;
   --color-markdown-blockquote-border: #343434 !important;
@@ -379,9 +379,9 @@
   --color-markdown-table-tr-border: #343434 !important;
   --color-menu-heading-text: #24292e !important;
   --color-menu-border-active: #f9826c !important;
-  --color-sidenav-selected-bg: #fff !important;
+  --color-sidenav-selected-bg: #202020 !important;
   --color-sidenav-border-active: #f9826c !important;
-  --color-tabnav-selected-bg: #fff !important;
+  --color-tabnav-selected-bg: #202020 !important;
   --color-header-text: hsla(0,0%,100%,.7) !important;
   --color-header-bg: #252628 !important;
   --color-header-logo: #fff !important;
@@ -392,17 +392,17 @@
   --color-upload-enabled-border: #dfe2e5 !important;
   --color-upload-enabled-border-focused: #4a9eff !important;
   --color-previewable-comment-form-border: #c3c8cf !important;
-  --color-previewable-comment-form-bg: #fff !important;
+  --color-previewable-comment-form-bg: #1b1b1b !important;
   --color-underlinenav-border: rgba(209,213,218,0) !important;
   --color-underlinenav-border-hover: #d1d5da !important;
   --color-underlinenav-border-active: #f9826c !important;
-  --color-underlinenav-text: #24292e !important;
-  --color-underlinenav-text-hover: #24292e !important;
-  --color-underlinenav-text-active: #24292e !important;
+  --color-underlinenav-text: #e6e6e6 !important;
+  --color-underlinenav-text-hover: #e6e6e6 !important;
+  --color-underlinenav-text-active: #e6e6e6 !important;
   --color-underlinenav-icon: #959da5 !important;
   --color-underlinenav-icon-hover: #959da5 !important;
-  --color-underlinenav-icon-active: #24292e !important;
-  --color-underlinenav-counter-text: #24292e !important;
+  --color-underlinenav-icon-active: #e6e6e6 !important;
+  --color-underlinenav-counter-text: #e6e6e6 !important;
   --color-social-count-bg: #1b1b1b !important;
   --color-header-search-bg: #252628 !important;
   --color-header-search-border: #444d56 !important;
@@ -461,6 +461,18 @@
  */
 .gh-header {
   background-color: var(--color-bg-canvas) !important;
+}
+.blob-num-addition {
+  background-color: #001c06 !important;
+}
+.blob-code-addition {
+  background-color: #00240a !important;
+}
+.blob-num-deletion {
+  background-color: #1c0000 !important;
+}
+.blob-code-deletion {
+  background-color: #240000 !important;
 }
 
 
