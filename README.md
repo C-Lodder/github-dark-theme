@@ -8,7 +8,7 @@ Unlike other solutions out there that inject a 1.3MB CSS file, GDT primarily uti
 
 ![Firefox](https://raw.github.com/alrra/browser-logos/master/src/firefox/firefox_48x48.png) | ![Chrome](https://raw.github.com/alrra/browser-logos/master/src/chrome/chrome_48x48.png) | ![Edge](https://raw.github.com/alrra/browser-logos/master/src/edge/edge_48x48.png) | ![Safari](https://raw.github.com/alrra/browser-logos/master/src/safari/safari_48x48.png) | ![Opera](https://raw.github.com/alrra/browser-logos/master/src/opera/opera_48x48.png)
 --- | --- | --- | --- | --- |
-[Download](https://addons.mozilla.org/en-GB/firefox/addon/gdt/) | Coming soon | Coming soon | Coming soon | Coming soon |
+[Download](https://addons.mozilla.org/en-GB/firefox/addon/gdt/) | [Download](https://chrome.google.com/webstore/detail/gdt/enhbnohamjjhmdmiiehekibldojbbeaa) | Coming soon | Coming soon | Coming soon |
 
 ## Building locally
 You will need [NodeJS](https://nodejs.org) for any local development
